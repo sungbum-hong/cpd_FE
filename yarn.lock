@@ -1192,6 +1192,11 @@ eslint-config-prettier@^10.1.8:
   resolved "https://registry.npmjs.org/eslint-config-prettier/-/eslint-config-prettier-10.1.8.tgz"
   integrity sha512-82GZUjRS0p/jganf6q1rEO25VSoHH0hKPCTrgillPjdI/3bgBhAE1QzHrHTizjpRvy6pGAvKjDJtk2pF9NDq8w==
 
+eslint-plugin-local-rules@^3.0.2:
+  version "3.0.2"
+  resolved "https://registry.npmjs.org/eslint-plugin-local-rules/-/eslint-plugin-local-rules-3.0.2.tgz"
+  integrity sha512-IWME7GIYHXogTkFsToLdBCQVJ0U4kbSuVyDT+nKoR4UgtnVrrVeNWuAZkdEu1nxkvi9nsPccGehEEF6dgA28IQ==
+
 eslint-plugin-react-hooks@^7.0.1:
   version "7.0.1"
   resolved "https://registry.npmjs.org/eslint-plugin-react-hooks/-/eslint-plugin-react-hooks-7.0.1.tgz"
